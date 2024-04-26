@@ -1,0 +1,44 @@
+    /*Primer código en css, tabla con un fondo color rgb con letra negra y fuente arial*/
+    tr{
+        background-color: rgb(231, 187, 224);
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    /*segundo  código en css, los dias con fondo de diferentes colores pero igual tamaño de letra*/
+   
+    .lunesCss {
+        background-color:violet;
+        color: blueviolet; 
+        font-size: 150%;    
+    }
+
+    .miercolesCss {
+        background-color:aquamarine;
+        color: green;  
+        font-size: 150%;      
+    }
+
+    .viernesCss {
+        background-color: pink;
+        color: purple;  
+        font-size: 150%;
+    }
+
+    /* Tercer código en css, los horarios en función del color del día*/
+
+    .horarioLunesCss {
+        background-color:violet;
+        color: blueviolet; 
+    }
+
+    .horarioMiercolesCss {
+        background-color:aquamarine;
+        color: green;
+    }
+
+    .horarioViernesCss {
+        background-color: pink;
+        color: purple;
+    }
+    

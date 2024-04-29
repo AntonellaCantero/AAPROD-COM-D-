@@ -1,0 +1,22 @@
+/*Primer código en css:  header con un fondo color,fuente arial. Ancho al 100% y altura a elección */
+header{
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 50%;
+}
+
+/* Segundo código en css: formulario con un border a elección,fuente arial. Ancho al 100% y altura a elección */
+.formularioCss{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px groove purple;
+}
+
+/* Tercer código en css: footer con un fomdo de color , fuente arial. Ancho al 100% y altura a elección */
+footer{
+    background-color: lightgrey;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 80%;
+}
